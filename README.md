@@ -7,7 +7,7 @@
 - **User-Centered Approach**: Years in customer care enable me to design tech solutions with users in mind.
 
 ## **Currently Working On**
-- [**Parenting Support App**](#): Developing an app to support parents with daily tips, expert advice, and resources.
+- [**Parenting Support App**](https://github.com/lydiadijkstra/personal_project_hp): Developing an app to support parents with daily tips, expert advice, and resources.
 
 ## **Finished Projects**
 - [**Store Application**](https://github.com/lydiadijkstra/best_buy): A Python-based project for advanced product and promotion management.  
