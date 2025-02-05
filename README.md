@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi! I’m **Lydia Dijkstra**, a Python backend developer with a solid background in customer care and project management. Currently advancing my skills at Masterschool, I’m passionate about building robust, user-friendly applications.
+👋 Hi! I’m **Lydia Dijkstra**, a Python backend developer with a solid background in customer care and project management. I have finished my Backend Developer Program at Masterschool, where I advanced my Tech Skills. I’m passionate about building robust, user-friendly and longlasting applications following the high quality pep8 standards.
 
 ## Key Skills
 - **Python Backend Development**: Skilled in Flask, SQL, REST APIs, and data management.
